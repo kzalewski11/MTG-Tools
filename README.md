@@ -24,5 +24,5 @@ This script is a previous version which edits an existing text file consisting o
 - Click Export
 - Open Notepad and paste data (ctrl-v)
 - Save .txt document to desired location (same directory as script works well for usability)
-- Run powershell script
+- Run script
 - Enter file path (absolute or relative based on above description) when prompted
