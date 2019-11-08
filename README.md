@@ -1,8 +1,8 @@
 # MTG-Tools
-Tools for deckbuilding in Magic The Gathering Arena
+Tools for deckbuilding in Magic: The Gathering Arena (MTGA)
 
 ## Main Functionality
-These tools are used for turning virtual MTGA decks into real-life decks you can actually hold!  The idea is to pilot decks with various builds in the game, and then once you know a deck is effective, quickly purchase the exact cards in the deck for IRL use. The current iteration works through TCGPlayer.com, which has a very good Mass Entry feature and reasonable prices. They also have a very nice cart optimization tool to help reduce costs even further.
+These tools are used for turning virtual MTGA decks into real-life decks *you can actually hold!*  The idea is to pilot decks with various builds in the game, and then once you know a deck is effective, quickly purchase the exact cards in the deck for IRL use. The current iteration works through [TCG Player](https://www.tcgplayer.com/), which has a very good Mass Entry feature and reasonable prices. They also have a very nice cart optimization tool to help reduce costs even further.
 
 ## Scripts
 ### MTGAddToCart.ps1:
